@@ -1,8 +1,9 @@
 {
   "name": "portfolio",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://AH400796.github.io/portfolio",
   "scripts": {
     "start": "vite",
     "build": "vite build",
