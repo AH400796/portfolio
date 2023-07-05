@@ -1,3 +1,3 @@
 module.exports = {
-  base: "/portfolio/",
+  base: "https://AH400796.github.io/portfolio",
 };
