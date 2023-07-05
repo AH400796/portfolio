@@ -1,3 +1,5 @@
-module.exports = {
-  base: "https://AH400796.github.io/portfolio",
-};
+import { defineConfig } from "vite";
+
+export default defineConfig({
+  base: "/portfolio/",
+});
